@@ -13,6 +13,8 @@ import SliderOpenQuestionView from "../lib/slider/slider-open-question-view";
 ```js
 new SliderOpenQuestionView(question, questionViewSettings, customQuestionSettings, sliderContainer);
 ```
+sliderContainer here stands for HTMLDivElement element to which you want to append the slider compoment. 
+
 2) Before creating a SliderOpenQuestionView object you can change slider's settings in customQuestionSettings. For instance: 
 
 ```js
