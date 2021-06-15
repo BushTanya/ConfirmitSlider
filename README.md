@@ -9,11 +9,10 @@ Custom Slider is a library for adding a slider to a custom question.
 ```js
 import SliderOpenQuestionView from "../lib/slider/slider-open-question-view";
 ```
-3) Create a SliderOpenQuestionView object
+3) Create a SliderOpenQuestionView object. sliderContainer here stands for HTMLDivElement element to which you want to append the slider component. 
 ```js
 new SliderOpenQuestionView(question, questionViewSettings, customQuestionSettings, sliderContainer);
 ```
-sliderContainer here stands for HTMLDivElement element to which you want to append the slider compoment. 
 
 2) Before creating a SliderOpenQuestionView object you can change slider's settings in customQuestionSettings. For instance: 
 
