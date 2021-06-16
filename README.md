@@ -47,4 +47,4 @@ with a range from customScale.min to customScale.max and customScale.start as a 
 
 Property isCustomScale should be also set in design/index.js and should be equal to the previous ones (see examples for fields' validation there).
 
-3) An example of how you can implement slider options on Custom Settings page is in the design/index.html (see comments there).
+3) An example of how you can implement slider options on Custom Settings page is in the design/index.html, design/index.js (see comments there).
